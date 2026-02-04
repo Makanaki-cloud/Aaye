@@ -1,0 +1,7 @@
+{
+  "name": "Aaye - Trustworthy Nigerian Real Estate",
+  "description": "A mobile-first marketplace for verified properties in Abuja and across Nigeria, featuring estate-based search, land documentation education, and diaspora-ready tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
